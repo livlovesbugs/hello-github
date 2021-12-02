@@ -1,4 +1,3 @@
 # hello-github
 homework 1
-#import conda environment into this
-conda activate new-env
+This is where I, Olivia N., will submit my first homework assignment
